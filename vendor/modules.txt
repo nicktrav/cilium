@@ -501,10 +501,8 @@ github.com/prometheus/common/model
 github.com/prometheus/procfs
 github.com/prometheus/procfs/internal/fs
 github.com/prometheus/procfs/internal/util
-# github.com/russross/blackfriday v1.5.2
-## explicit
-github.com/russross/blackfriday
 # github.com/russross/blackfriday/v2 v2.0.1
+## explicit
 github.com/russross/blackfriday/v2
 # github.com/sasha-s/go-deadlock v0.2.1-0.20190427202633-1595213edefa
 ## explicit
